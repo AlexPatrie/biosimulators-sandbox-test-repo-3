@@ -1,6 +1,0 @@
-name: test-env-311
-channels:
-  - defaults
-dependencies:
-  - python=3.11
-prefix: /Users/alex/miniconda3/envs/test-env-311

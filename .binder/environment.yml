@@ -1,16 +1,6 @@
-name: binder_repo_env
+name: test-env-311
 channels:
-- conda-forge
-- nodefaults
+  - defaults
 dependencies:
-  - python
-  - jupyterlab=4.0.2
-  - jupyter-collaboration=1.0.0
-  - nbconvert=7.5.0
-  - ipykernel=6.23.1
-  - pip
-  - pip:
-    - biosimulators-utils==0.1.181
-    - notebook==7.0.0b3
-
-
+  - python=3.11
+prefix: /Users/alex/miniconda3/envs/test-env-311
