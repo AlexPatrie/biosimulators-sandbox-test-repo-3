@@ -1,1 +1,1 @@
-biosimulators-copasi
+biosimulators-utils==0.1.181
