@@ -3,4 +3,7 @@ channels:
   - defaults
 dependencies:
   - python=3.11
+  - pip 
+  - pip:
+    - biosimulators-utils==0.1.181
 prefix: /Users/alex/miniconda3/envs/test-env-311
